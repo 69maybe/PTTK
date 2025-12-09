@@ -8,4 +8,4 @@ git add .
 git commit -m "<Thông điệp từ vũ trụ>"
 git push origin main
 
-3. Mỗi lần vô chọt ngoáy -> nhớ git pull origin main 
+3. Mỗi lần trước khi chọt ngoáy -> nhớ git pull origin main để lấy commit mới nhất của tau về
